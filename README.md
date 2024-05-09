@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything that makes me interesting!
 - 🌱 I’m currently learning engineering.
 - 💞️ I’m looking to collaborate on anything related to cysec and ai.
-- 📫 How to reach me - http://www.linkedin.com/in/ramya-ram62
+- 📫 How to reach me -http://linkedin.com/in/ramya-d-811920282
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I dance,paint,cook,crochet,code at the same time.
 
