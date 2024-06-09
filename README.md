@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramyad06
+- 👋 Hi, I’m ramya
 - 👀 I’m interested in everything that makes me interesting!
 - 🌱 I’m currently learning engineering.
 - 💞️ I’m looking to collaborate on anything related to cysec and ai.
