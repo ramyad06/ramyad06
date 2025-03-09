@@ -24,6 +24,3 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramyad06&show_icons=true&locale=en&layout=compact" alt="ramyad06" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyad06&" alt="ramyad06" /></p>
