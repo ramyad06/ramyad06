@@ -30,7 +30,4 @@
 
 ---
 
-### 🏆 Streaks:
-[![GitHub Streak](https://streak-stats.demolab.com?user=ramyad06&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
-
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramyad06 &show_icons=true&locale=en&layout=compact" alt="ramyad06r" /></p> 
