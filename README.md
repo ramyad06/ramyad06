@@ -34,6 +34,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ramyad06&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
 
 ---
-
-### 📈 GitHub Stats:
-[![Ramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramyad06&show_icons=true&theme=tokyonight&border_radius=5)](https://github.com/ramyad06)
