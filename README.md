@@ -1,4 +1,3 @@
-
 ## Hi, I'm Ramya! 👋
 
 🎓 I'm currently pursuing **B.Tech in CSE-CY** from DSU.  
@@ -24,3 +23,17 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00A300?style=for-the-badge&logo=nmap&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 🏆 Streaks:
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramyad06&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
+
+---
+
+### 📈 GitHub Stats:
+[![Ramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramyad06&show_icons=true&theme=tokyonight&border_radius=5)](https://github.com/ramyad06)
