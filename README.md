@@ -29,5 +29,5 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
-cloc --exclude-dir=node_modules,vendor .
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramyad06&show_icons=true&locale=en&layout=compact" alt="ramyad06" /></p>
