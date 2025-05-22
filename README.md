@@ -14,6 +14,13 @@
 
 ---
 
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/RAMYAD06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+
+
 ### 🛠️ Skills:
 ![JAVA](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
