@@ -2,8 +2,8 @@
 
 🎓 I'm currently pursuing **B.Tech in CSE-CY** from DSU.  
 💻 I'm interested in everything that makes me interesting.<br>
-💻 I'm currently exploring the world of **Ethical Hacking**  
-💬 Ask me about **AIML & CYSEC**
+💻 I'm currently exploring the world of **Bugs & Vulnerabilities**  
+💬 Ask me about **CYSEC & AIML**
 
 ---
 
